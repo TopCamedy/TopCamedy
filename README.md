@@ -1,39 +1,34 @@
-# 👨‍💻 Engineering the Future | TopCamedy
+# 👨‍💻 Engineering | TopCamedy
 
-### Quick Bio
-I am an IT student and software developer focused on systems programming and process automation. I bridge the gap between complex backend logic and practical, user-centric tools.
+### Обо мне
+Я — IT-студент и разработчик, специализирующийся на системном программировании и автоматизации процессов.
 
-* 🛡️ **WinAPI & Systems:** Expert at Windows environment management and registry-level manipulations.
-* 🤖 **Python Automation:** Building intelligent bots and scripts to eliminate repetitive tasks.
-* 🐳 **Cloud & DevOps:** Deploying scalable LMS (Moodle) and server environments using Docker on Linux.
-* 🎓 **Education:** 2+ years of experience mentoring young developers (ages 10-15).
+* 🛡️ **WinAPI & Systems:** Работа с системным окружением и реестром Windows.
+* 🤖 **Python Automation:** Создание скриптов для автоматизации рутинных задач.
+* 🐳 **Cloud & DevOps:** Развертывание сред через Docker на базе Debian.
+* 🎓 **Mentorship:** Опыт преподавания основ программирования детям.
 
 ---
 
-### 🛠 Tech Stack
+### 🛠 Стек технологий
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ---
 
-### 📈 GitHub Analytics
+### 📊 Статистика профиля
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=TopCamedy&show_icons=true&theme=tokyonight&count_private=true" alt="TopCamedy Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TopCamedy&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
-</p>
+![TopCamedy's GitHub stats](https://github-readme-stats.vercel.app/api?username=TopCamedy&show_icons=true&theme=greenscreen&rank_icon=github)
 
-> **Note:** The snake is still hunting your contributions! 🐍
-> ![Snake animation](https://raw.githubusercontent.com/TopCamedy/TopCamedy/output/github-contribution-grid-snake.svg)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TopCamedy&layout=compact&theme=greenscreen)
 
 ---
 
-### 📱 Get in Touch
-
+### 📱 Контакты
 [![Telegram](https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/your_telegram_here)
 [![Gmail](https://img.shields.io/badge/-Gmail-d14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)

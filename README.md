@@ -23,6 +23,3 @@
 
 ![TopCamedy's activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TopCamedy&theme=github_dark)
 
-### 💻 Языки по коммитам
-
-![TopCamedy's commit languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TopCamedy&theme=github_dark)

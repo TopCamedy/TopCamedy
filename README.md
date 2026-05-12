@@ -26,18 +26,3 @@
 ### 💻 Языки по коммитам
 
 ![TopCamedy's commit languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TopCamedy&theme=github_dark)
-
----
-
-### 📊 Статистика GitHub
-
-![TopCamedy's GitHub stats](https://github-readme-stats.vercel.app/api?username=TopCamedy&show_icons=true&theme=github_dark&rank_icon=github)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TopCamedy&layout=compact&theme=github_dark)
-
----
-
-### 📱 Контакты
-
-[![Telegram](https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/your_telegram_here)
-[![Gmail](https://img.shields.io/badge/-Gmail-d14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)

@@ -1,9 +1,6 @@
 # Привет! Я Даниил 👋
 
-IT-студент и разработчик. Специализируюсь на создании кроссплатформенных приложений и автоматизации. Имею опыт преподавания программирования детям 10-15 лет.
-
-### 🐍 Contribution Snake
-![Snake animation](https://raw.githubusercontent.com/TopCamedy/TopCamedy/output/github-contribution-grid-snake.svg)
+IT-студент и разработчик. Специализируюсь на создании кроссплатформенных приложений и автоматизации. 
 
 ### 🛠 Технологии и инструменты
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -21,8 +18,6 @@ IT-студент и разработчик. Специализируюсь на
 * **Системное администрирование:** Настройка LMS Moodle через Docker на Debian.
 
 ### 📊 Статистика профиля
-![TopCamedy's GitHub stats](https://github-readme-stats.vercel.app/api?username=TopCamedy&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TopCamedy&layout=compact&theme=radical)
 
----
-*Обо мне: Английский B1 (чтение технической документации). Увлекаюсь 3D-моделированием в Blender.*
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=TopCamedy&show_icons=true&theme=radical&cache_seconds=1800)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TopCamedy&layout=compact&theme=radical&cache_seconds=1800)

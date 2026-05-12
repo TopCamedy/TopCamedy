@@ -33,15 +33,18 @@
 
 ---
 
-### 📊 Статистика профиля
+### 📈 Моя активность
+![GitHub активность TopCamedy](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TopCamedy&theme=dark)
 
-![TopCamedy's GitHub stats](https://github-readme-stats.vercel.app/api?username=TopCamedy&show_icons=true&theme=dark&rank_icon=github)
+### 💻 Распределение языков в коммитах
+![Языки коммитов TopCamedy](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TopCamedy&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TopCamedy&layout=compact&theme=dark)
+### 🛠 Мои основные языки (по опыту)
 
----
-
-### 📱 Контакты
-
-[![Telegram](https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/your_telegram_here)
-[![Gmail](https://img.shields.io/badge/-Gmail-d14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)

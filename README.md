@@ -25,6 +25,16 @@
 ![TopCamedy's GitHub stats](https://github-readme-stats.vercel.app/api?username=TopCamedy&show_icons=true&theme=dark&rank_icon=github)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TopCamedy&layout=compact&theme=dark)
+
+---
+
+### 🏆 Мои достижения
+
+[![Contributions](https://img.shields.io/badge/🔥_Contributions-10_in_2026-red?style=for-the-badge&logo=github)](https://github.com/TopCamedy)
+[![Repos](https://img.shields.io/badge/📁_Public_Repos-3-blue?style=for-the-badge&logo=github)](https://github.com/TopCamedy)
+[![Joined](https://img.shields.io/badge/📅_Joined-1_year_ago-green?style=for-the-badge&logo=github)](https://github.com/TopCamedy)
+[![Top Language](https://img.shields.io/badge/🏆_Top_Language-C%23-purple?style=for-the-badge&logo=csharp)](https://github.com/TopCamedy)
+
 ---
 
 ### 📱 Контакты

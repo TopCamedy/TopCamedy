@@ -22,11 +22,9 @@
 ---
 
 ### 📊 Статистика профиля
+![TopCamedy's GitHub stats](https://github-readme-stats.vercel.app/api?username=TopCamedy&show_icons=true&theme=dark&rank_icon=github)
 
-![TopCamedy's GitHub stats](https://github-readme-stats.vercel.app/api?username=TopCamedy&show_icons=true&theme=greenscreen&rank_icon=github)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TopCamedy&layout=compact&theme=greenscreen)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TopCamedy&layout=compact&theme=dark)
 ---
 
 ### 📱 Контакты

@@ -33,5 +33,4 @@ I am an IT student and passionate software developer focused on building efficie
 ### 📫 Connect with me
 * **Currently learning:** Advanced software architecture and modern web frameworks.
 * **Open to:** Collaborating on open-source projects and educational initiatives.
-![TopCamedy's GitHub stats](https://github-readme-stats.vercel.app/api?username=TopCamedy&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TopCamedy&layout=compact&theme=radical)
+
